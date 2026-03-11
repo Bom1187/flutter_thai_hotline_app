@@ -10,7 +10,7 @@
 <kbd><img width="300" alt="localhost_56159_(iPhone 14 Pro Max) (3)" src="https://github.com/user-attachments/assets/56946265-c061-45ac-98da-45e4246cf1c4" />
 </kbd>
 <br></br>
-<kbd><img width="1290" height="2796" alt="localhost_56159_(iPhone 14 Pro Max) (1)" src="https://github.com/user-attachments/assets/b8f8d225-feee-4d55-a3c1-88d19493246c" />
+<kbd><img width="300" alt="localhost_56159_(iPhone 14 Pro Max) (1)" src="https://github.com/user-attachments/assets/b8f8d225-feee-4d55-a3c1-88d19493246c" />
 </kbd>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <kbd><img width="300" alt="localhost_56159_(iPhone 14 Pro Max) (2)" src="https://github.com/user-attachments/assets/c4154696-6974-47f0-b14f-c0feca8eeaf1" />
