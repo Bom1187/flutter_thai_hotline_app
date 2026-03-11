@@ -1,4 +1,4 @@
-## Thai Hot line App with Flutter/Dart
+## Thai Hotline App with Flutter/Dart
 
 ## แอปสายด่วนของประเทศไทย
 
